@@ -8,6 +8,9 @@ No es un juguete. Es un instrumento expresivo:
 - **Eje X** → notas (escala pentatónica de Do)
 - **Eje Y** → filtro (CC74)
 - **Presión / área de contacto** → expresión (CC11) y velocity
+<img width="1088" height="1445" alt="WhatsApp Image 2026-11-23 at 8 29 20 PM" src="https://github.com/user-attachments/assets/b1dd8605-970b-4dd2-9959-d9d2b878d590" />
+
+- 
 
 El proyecto nace de un problema real: con pads de cobre tan pequeños, la señal es tan débil que el ruido de red la tapa. La solución no fue más código, fue **física**: cobre en los pads y una guarda a GND. Este repo documenta ese proceso.
 
